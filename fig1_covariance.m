@@ -1,6 +1,6 @@
 clc, clear;
 
-rng(11); % set random seed for reproducibility
+rng(2); % set random seed for reproducibility
 
 nchan = 5;
 ntime = 8;
